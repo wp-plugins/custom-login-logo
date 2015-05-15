@@ -1,10 +1,10 @@
 === Custom Login Logo ===
-Contributors: hchouhan, dreamsonline, dreamsmedia
-Donate link: http://www.dreamsonline.net
+Contributors: hchouhan, themeist, dreamsmedia
+Donate link: http://themeist.co
 Tags: customize, login, login screen, logo, custom logo
 Stable tag: 1.0.2
 Requires at least: 3.5
-Tested up to: 3.8.1
+Tested up to: 4.2.2
 Last Updated: 2014-FEB-17
 Plugin Name: Custom Login Logo
 Plugin URI: http://www.dreamsonline.net/wordpress-plugins/custom-login-logo/
